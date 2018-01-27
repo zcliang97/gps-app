@@ -3,4 +3,4 @@
 An app that uses the sensors on android phones to determine direction and displacement. Using this information, it generates navigation
 in a pre-downloaded SVG map. 
 
-NOTE: SVG map must be in the SD card for the map to load.
+NOTE: SVG map must be in the Device's SD card for the map to load.
